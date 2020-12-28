@@ -1,2 +1,2 @@
-# lights-out
-Created with CodeSandbox
+# Lights Out
+A Fun game created using Codesandbox.
