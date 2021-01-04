@@ -14,7 +14,7 @@ This game has been hosted on Netlify.
 
 ### Try it out !!!
 
-You can check out the game over here -> <a href="https://lightsoutt.netlify.app/">HANGMAN</a>
+You can check out the game over here -> <a href="https://lightsoutt.netlify.app/">Light's Out</a>
 
 ### Credits
 
