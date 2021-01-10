@@ -21,3 +21,7 @@ You can check out the game over here -> <a href="https://lightsoutt.netlify.app/
 The credit of this project goes to **Colt Steele**. Do check out his channel. <a href="https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw">Colt Steele's Youtube</a>.
 
 The fancy text was taken from Thomas Trinca's CodePen. Do check out his designs. <a href="https://codepen.io/Trinca">Thomas Trinca's Codepen</a> 
+
+### Feedback
+
+Any opinions to make the App better is always welcomed. If you would like to contribute to this project then get in touch.
